@@ -14,10 +14,12 @@
   align-items: center;
 }
 
-.product img {
+.product section img {
   width: 100%;
 }
-
+.content-image {
+  width: 100%;
+}
 .product h2 {
   font-size: 4rem;
   line-height: 1.2;
